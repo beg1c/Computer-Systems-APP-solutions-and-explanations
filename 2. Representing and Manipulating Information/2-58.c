@@ -16,6 +16,7 @@ int is_little_endian(void) {
 
 int main(void) {
     is_little_endian();
+    return 0;
 }
 
 /* 
